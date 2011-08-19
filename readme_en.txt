@@ -16,6 +16,7 @@ This extension allows you to use [Quicky](http://code.google.com/p/quicky/) temp
 * Extract the release file under `protected/extensions`.
 * [Download](http://code.google.com/p/quicky/) and extract Quicky under `protected/vendors/Quicky`.
 * Add the following to your config file 'components' section:
+
 ~~~
 [php]
 'viewRenderer'=>array(
